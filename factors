@@ -8,7 +8,6 @@ def factor(number, test_num):
     """ Finds the values to return once a number has been found
     """
 
-
     print("{}={}*{}".format(number, (number // test_num), test_num))
 
 
